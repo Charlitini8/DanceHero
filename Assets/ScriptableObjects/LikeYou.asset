@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SongData
   animationName: Freezes
   songName: Guitar Hero Tom Morello Battle
+  noteChart: {fileID: 4900000, guid: c24c01e9e61c19547a563a5e7a3d6c4d, type: 3}
+  speed: 300
